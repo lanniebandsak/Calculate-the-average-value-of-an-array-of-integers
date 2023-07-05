@@ -1,0 +1,4 @@
+double CalculateAverage(int[] array)
+{
+    return array.Average();
+}
